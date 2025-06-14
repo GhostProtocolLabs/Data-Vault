@@ -1,0 +1,7 @@
+[Data-Vault]
+name = "data-vault"
+version = "0.1.0"
+description = "A sophisticated autonomous agent that executes advanced web search queries and systematically aggregates, analyzes, and structures the retrieved data into a highly organized and actionable format."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
